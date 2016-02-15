@@ -40,6 +40,10 @@ Take a look at these links to help you get your blog started on GitHub Pages:
 
 Medium makes setting up a blog effortless, with its very intuitive interface. It gives user's an opportunity to develop a fanbase with its subscription system. This is great website for exposing your thoughts to non-engineers. With its quick and easy setup, feel free to use Medium as a blogging platform in conjunction with a page on GitHub. 
 
+## Submitting your posts
+
+Your blog posts should be completed alongside the rest of the curriculum. Following the deadlines of this material should be your guide as to what you should be writing about and when. Once you have deployed your post to your page, submit the link to your post on your cohort's blog spreadsheet.  
+
 ## Examples of great tech blogs
 
 ![Image of blog]
