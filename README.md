@@ -45,4 +45,16 @@ Medium makes setting up a blog effortless, with its very intuitive interface. It
 ![Image of blog]
 (images/crhis1.png)
 
+![Image of blog]
+(images/chris2.png)
+
+![Image of blog]
+(images/vy1.png)
+
+![Image of blog]
+(images/cliff1.png)
+
+![Image of blog]
+(images/cliff2.png)
+
 
