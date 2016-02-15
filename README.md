@@ -42,4 +42,7 @@ Medium makes setting up a blog effortless, with its very intuitive interface. It
 
 ## Examples of great tech blogs
 
+![Image of blog]
+(images/crhis1.png)
+
 
